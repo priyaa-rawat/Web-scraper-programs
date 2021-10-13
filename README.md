@@ -1,3 +1,3 @@
 # Web-scraper-programs
 # Python code snippets for web scraping.
-<blockquote class="imgur-embed-pub" lang="en" data-id="6zM7JBq" data-context="false" ><a href="//imgur.com/6zM7JBq"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://bs-uploads.toptal.io/blackfish-uploads/uploaded_file/file/253814/image-1589553330104-3887f4e1986e94fea6b7b2fbf7a2fbcb.png" />
